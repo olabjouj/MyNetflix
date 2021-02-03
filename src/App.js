@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-      Hello world , It's My Netflix 
+      Hello world , It's My New Netflix 
     </div>
   );
 }
